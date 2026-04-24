@@ -144,10 +144,6 @@ Short description of the project.
 
 ## 📫 Contact Me
 
-<p>
-  Add your links here later:
-</p>
-
 - Telegram: `@ChernikovIA`
 - Email: `ilia_wilia@mail.ru`
 - GitHub: [Ilia22072011](https://github.com/Ilia22072011)
