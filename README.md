@@ -121,23 +121,6 @@ Short description of the project.
 
 ---
 
-## 🌍 Top Languages
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilia22072011&layout=compact&theme=transparent&title_color=4FA3B8&text_color=EAEAEA&border_color=223C46&bg_color=00000000" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ilia22072011/Ilia22072011/output/snake.svg" alt="Snake animation" />
-</div>
-
-> Snake animation requires GitHub Actions setup in this repository.
-
----
 
 ## 🎵 Fun Facts
 
