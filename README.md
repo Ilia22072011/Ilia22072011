@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,40:1B2A34,70:223C46,100:4FA3B8&text=xornik&fontColor=EAEAEA&fontSize=52&fontAlignY=38&desc=Programmer%20%E2%80%A2%20Physicist%20%E2%80%A2%20Robotics%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,40:1B2A34,70:223C46,100:4FA3B8&text=Nullik&fontColor=EAEAEA&fontSize=52&fontAlignY=38&desc=Programmer%20%E2%80%A2%20Physicist%20%E2%80%A2%20Robotics%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" />
 
-# Hi, I'm Ilya Chernikov (xornik) 👋
+# Hi, I'm Ilya Chernikov (Nullik) 👋
 
 ### Programmer • Physicist • Robotics Enthusiast
 
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I’m **Ilya Chernikov**, also known as **xornik**.  
+I’m **Ilya Chernikov**, also known as **Nullik**.  
 I’m a high school student passionate about **programming, physics, robotics, and engineering problem-solving**.
 
 Recently, I’ve been especially focused on **robotics**, where I combine software, hardware, logic, and practical physics to build real working systems.
@@ -165,8 +165,8 @@ Short description of the project.
   Add your links here later:
 </p>
 
-- Telegram: `your link here`
-- Email: `your email here`
+- Telegram: `@ChernikovIA`
+- Email: `ilia_wilia@mail.ru`
 - GitHub: [Ilia22072011](https://github.com/Ilia22072011)
 
 ---
