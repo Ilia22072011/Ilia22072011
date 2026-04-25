@@ -109,7 +109,10 @@ I work confidently with **Python** and **C++**, have hands-on experience with **
 
 ## 📌 Projects
 
-> I will add selected projects here soon.
+> GTO-M
+Site for project GTO-M. I created the frontend and backend, deployed the server and the website on it, and am now providing support
+**Stack:** HTML, CSS, JavaScript, Python
+**Link:** [link](https://site.gto-m.netcraze.pro/main.html)
 
 <!-- Example project block:
 ### Project Name
